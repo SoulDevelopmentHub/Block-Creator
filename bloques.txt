@@ -1,0 +1,6 @@
+bricks_block:texture:bricks
+bricks_slab:texture:bricks
+bricks_stairs:texture:bricks
+dark_prismarine_block:texture:dark_prismarine
+dark_prismarine_slab:texture:dark_prismarine
+dark_prismarine_stairs:texture:dark_prismarine
